@@ -1,2 +1,2 @@
 ﻿# Node.js-Express-Cheerio
- Node.js crawler dowloading url's and tags from site(SpottedLublin.pl)
+ Node.js crawler dowloading URLs and tags from site(SpottedLublin.pl)
